@@ -25,6 +25,8 @@
 * Our client, PizzaXpress, sought to enhance its business intelligence capabilities to improve decision-making and drive growth.
 * The goal of this project was to analyze sales data and customer behavior to uncover valuable insights that could be used to increase sales, improve customer satisfaction, and streamline operations.
 
+![Alt text](pizza_dashboard_01.png)
+![Alt text](pizza_dashboard_02.png)
 
 
 
